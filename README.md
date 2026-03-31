@@ -37,3 +37,21 @@ This repository contains a structured collection of C programs focused on buildi
 2. Clone the repository:
    ```bash
    git clone https://github.com/vivekbgautam/YOUR_REPO_NAME.git
+   ```
+
+Navigate to the folder:
+```
+cd YOUR_REPO_NAME
+````
+Compile and run:
+
+```
+gcc filename.c -o output
+./output
+```
+
+## 🌐 Connect With Me
+
+- 💻 GitHub: https://github.com/vivekbgautam  
+- 🔗 LinkedIn: https://www.linkedin.com/in/vivek-b-gautam/  
+- 📧 Email: vivekbgautam@gmail.com  
