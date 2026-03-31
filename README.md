@@ -54,4 +54,10 @@ gcc filename.c -o output
 
 - 💻 GitHub: https://github.com/vivekbgautam  
 - 🔗 LinkedIn: https://www.linkedin.com/in/vivek-b-gautam/  
-- 📧 Email: vivekbgautam@gmail.com  
+- 📧 Email: vivekbgautam@gmail.com
+
+  ## ⭐ Support
+
+If you found this repository helpful, please consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and motivates me to keep improving and adding more content 🚀
